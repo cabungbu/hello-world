@@ -5,4 +5,5 @@ int main() {
 	cout << " nga";
 	cout << "ehehe";
 	return 0;
+	chim;
 }
